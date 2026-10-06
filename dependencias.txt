@@ -1,0 +1,8 @@
+kivy
+opencv-python
+numpy
+oracledb
+face_recognition
+speechrecognition
+PyAudio
+
